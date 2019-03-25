@@ -3,4 +3,6 @@
 Udacity's Android developer nano degree project
 
 ## Video
+
 [![XYZ Reader app demo](https://img.youtube.com/vi/RRKeGFklV2E/0.jpg)](https://www.youtube.com/watch?v=RRKeGFklV2E)
+
