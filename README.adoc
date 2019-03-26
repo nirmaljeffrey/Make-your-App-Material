@@ -1,3 +1,8 @@
-= XYZ Reader Starter Code
+## XYZ Reader - Make your app material
 
-This repository stores the starter code for the XYZ Reader project in Udacity's Android Nanodegree.
+Udacity's Android developer nano degree project
+
+## Video
+
+[![XYZ Reader app demo](https://img.youtube.com/vi/RRKeGFklV2E/0.jpg)](https://www.youtube.com/watch?v=RRKeGFklV2E)
+
